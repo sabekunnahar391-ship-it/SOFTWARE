@@ -1,1 +1,14 @@
-Task: T-14 - Implement User Login Page - Assigned to: Msaddikul Islam
+Task: T-14 - Implement Attendance and Result Pages
+Assigned to: Msaddikul Islam
+
+This task implements the Attendance and Result pages
+for the Student Management System.
+
+Attendance Page:
+- Displays attendance information for different courses.
+- Shows attended classes and attendance percentages.
+
+Result Page:
+- Displays course results and grades.
+
+Status: Implemented
