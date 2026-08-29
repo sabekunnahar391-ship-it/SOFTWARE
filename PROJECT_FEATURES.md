@@ -1,6 +1,12 @@
-# Implemented Features
-## T-14: Implement User Login Page
-This task involves creating a login form with validation.
+## Implemented Features
+
+### T-14: Attendance and Result Pages
+
+This task involves creating the Attendance and Result pages for the Student Management System.
+
 Assigned to: Msaddikul Islam
+
 **Status: Implemented**
 
+- Attendance page displays attendance information for different courses.
+- Result page displays students' course results and grades.
